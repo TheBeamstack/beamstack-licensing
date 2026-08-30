@@ -1,0 +1,74 @@
+{{PROJECT_NAME}}
+https://beam-stack.com
+
+{{PROJECT_NAME}} is a Beamstack project.
+{{ONE_LINE_DESCRIPTION}}
+
+Copyright (C) 2026 Beamstack. "Beamstack" is the trading name of a sole
+proprietorship of Abdellah Daoudi (Kingdom of Morocco) pending incorporation;
+"Beamstack" is a trademark registered with OMPIC. Where a natural or legal
+person is required, the copyright holder of record is Abdellah Daoudi
+<askdaoudi@gmail.com>.
+
+--------------------------------------------------------------------------------
+LICENCE
+--------------------------------------------------------------------------------
+{{PICK ONE — delete the others}}
+
+[BLF-Open]
+Licensed under {{AGPL-3.0-only | MPL-2.0 | Apache-2.0}} (SPDX:
+{{AGPL-3.0-only}}). The full text is in LICENSE. This project is on the Open tier
+of the Beamstack License Framework — https://github.com/TheBeamstack/beamstack-licensing.
+Trademark policy: TRADEMARKS.md (no licence grants rights in the "Beamstack" or
+"{{PROJECT_NAME}}" names or the Beamstack logo — a fork must rename).
+
+[BLF-Community]
+Licensed under the Beamstack Community License 1.1 (SPDX: LicenseRef-BCL-1.1) —
+a source-available licence: a modified Mozilla Public License 2.0 that adds a
+no-sale condition and a "Powered by Beamstack" attribution requirement, with an
+inert (not activated) network-use clause. Full text in LICENSE; plain-language
+summary in LICENSING.md. NOT an OSI open-source licence. Beamstack License
+Framework, Community tier —
+https://github.com/TheBeamstack/beamstack-licensing.
+
+[BLF-Community-Network]
+Licensed under the Beamstack Community License 1.1 with Exhibit C (SPDX:
+LicenseRef-BCL-1.1-Network) — as Community, plus Section 3.8: deploying a
+modified version so others use it over a network (including in a browser, or via
+an API/agent) requires offering them the Corresponding Source. Full text in
+LICENSE (Exhibit C block prepended). Beamstack License Framework,
+Community-Network tier.
+
+[BLF-Commercial]
+Proprietary. Copyright (C) 2026 Beamstack. All rights reserved. Licensed, not
+sold, under the Beamstack Commercial EULA. No source rights. SPDX:
+LicenseRef-Beamstack-Commercial. Beamstack License Framework, Commercial tier.
+
+[BLF-Dedicated]
+Proprietary. Operated by the client under a signed Beamstack Dedicated
+Deployment Agreement. SPDX: LicenseRef-Beamstack-Dedicated. Beamstack License
+Framework, Dedicated tier.
+
+--------------------------------------------------------------------------------
+THIRD-PARTY COMPONENTS
+--------------------------------------------------------------------------------
+See THIRD-PARTY-NOTICES.md for bundled or required third-party software and its
+licences.
+
+--------------------------------------------------------------------------------
+HOW TO COMPLY (Community / Community-Network tiers only — LICENSE controls)
+--------------------------------------------------------------------------------
+If you distribute, host, or build on this software:
+  1. Keep LICENSE, NOTICE, and THIRD-PARTY-NOTICES.md intact; keep source
+     headers.
+  2. If it has a UI, show "Powered by Beamstack" (text or logo) linked to
+     https://beam-stack.com somewhere a user looks for credits.
+  3. Say "based on Beamstack software" with a link in your README / docs.
+  4. Identify the licence as LicenseRef-BCL-1.1 (or -Network) in package
+     metadata.
+  5. Do not sell it, do not strip the credit, do not use the "Beamstack" or
+     "{{PROJECT_NAME}}" names/logo as your own.
+  (Community-Network only) 6. If you deploy a modified version over a network,
+     offer users the Corresponding Source.
+
+Commercial licences and written waivers: askdaoudi@gmail.com
