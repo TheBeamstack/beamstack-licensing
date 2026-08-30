@@ -22,6 +22,8 @@ Initial framework.
 - Initial project assignments: Road-Designer → Community (applied); Bunyan →
   Open; Miqdar → Commercial; Maître d'Ouvrage → Commercial + Dedicated
   (BLF-D5…D8).
+- Further assignments (2026-08-30): SmartBar → Open; Chantier_Manager →
+  Commercial; Planitor → Commercial (BLF-D9…D11).
 
 ### Pending for a future version
 
@@ -29,8 +31,8 @@ Initial framework.
   clauses across the framework, `licenses/BCL-1.1.txt` header, the CLA, and the
   agreements with the registered entity's name; assign the sole proprietor's
   copyright to the entity.
-- Assign a tier to Planitor, BIMsync, Chantier_Manager, Portique_Designer,
-  SmartBar.
+- Assign a tier to BIMsync and Portique_Designer.
+- Confirm whether Planitor also needs the BLF-Dedicated option (BLF-D11).
 - Optional: a corporate/entity CLA variant (`templates/CLA-entity.md`).
 - Lawyer review of the Commercial EULA and the Dedicated Deployment Agreement
   before first commercial use.

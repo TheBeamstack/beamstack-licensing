@@ -157,9 +157,12 @@ Maintained in [`DECISIONS.md`](DECISIONS.md) §"Project assignments". Current st
 
 | Project | Tier | Instrument | Status |
 |---|---|---|---|
-| Bunyan | BLF-Open | AGPL-3.0-only (+ commercial) | ruling recorded; not yet applied in the Bunyan repo |
-| Road-Designer | BLF-Community | BCL-1.1 | **applied** |
-| Miqdar | BLF-Commercial | proprietary + Beamstack Commercial EULA | ruling recorded; not yet applied |
-| Maître d'Ouvrage | BLF-Commercial (+ BLF-Dedicated option) | proprietary EULA; Dedicated Agreement per client | ruling recorded; not yet applied |
-| Planitor, BIMsync, Chantier_Manager, Portique_Designer, SmartBar | **unassigned** | — | pending owner ruling |
+| Bunyan | BLF-Open | AGPL-3.0-only (+ commercial) | ruling recorded (BLF-D6); not yet applied in the Bunyan repo |
+| SmartBar | BLF-Open | AGPL-3.0-only (+ commercial) | ruling recorded (BLF-D9); not yet applied |
+| Road-Designer | BLF-Community | BCL-1.1 | **applied** (BLF-D5) |
+| Miqdar | BLF-Commercial | proprietary + Beamstack Commercial EULA | ruling recorded (BLF-D7); not yet applied |
+| Maître d'Ouvrage | BLF-Commercial (+ BLF-Dedicated option) | proprietary EULA; Dedicated Agreement per client | ruling recorded (BLF-D8); not yet applied |
+| Chantier_Manager | BLF-Commercial | proprietary + Beamstack Commercial EULA | ruling recorded (BLF-D10); not yet applied |
+| Planitor | BLF-Commercial | proprietary + Beamstack Commercial EULA | ruling recorded (BLF-D11); Dedicated option pending owner confirmation |
+| BIMsync, Portique_Designer | **unassigned** | — | pending owner ruling |
 | beamstack-contact, daoudi.beam-stack.com | unassigned (internal) | All Rights Reserved by default | — |
