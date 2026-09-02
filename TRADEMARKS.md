@@ -15,12 +15,41 @@ the mechanism that keeps the brand meaningful when the code is freely forkable.
 
 - **"Beamstack"** — word mark, **registered with OMPIC** (Office Marocain de la
   Propriété Industrielle et Commerciale, Morocco).
-- **The Beamstack logo** — the stacked-bars mark and the "beam"/"stack" wordmark
-  as published at https://beam-stack.com.
+- **The Beamstack logo** — the figurative mark and the "beam"/"stack" wordmark
+  **as published at https://beam-stack.com**. That URL, not this document, is the
+  operative reference: the same construction BCL-1.1 §1.17(b) uses to define the
+  Attribution Mark. The current form is described in §1.1, and the mark's history
+  is recorded there because the definition follows the site and the site changes.
 - **Product names** — "Bunyan", "Road-Designer", "Miqdar", "Maître d'Ouvrage",
   "Planitor", "BIMsync", and other names Beamstack applies to its products.
 
 Collectively, "the Beamstack Marks".
+
+### 1.1 The logo, and what it has been
+
+Because §1 and BCL-1.1 §1.17(b) both define the logo by **live reference** to
+https://beam-stack.com, the obligation on a Community-tier deployment changes the
+moment that page changes — with no version pin and no effective date in either
+document. Someone who complied by displaying the previous mark did nothing wrong
+when they did it. This table exists so that remains demonstrable rather than a
+matter of memory, and so a future change is dated rather than silent.
+
+| From | Logo as published | Notes |
+|---|---|---|
+| 2026-06-16 | **Stacked-bars mark** — three horizontal bars, the middle one in signal blue, on a dark rounded tile. | The form in force when BCL-1.1 and this policy were first issued. |
+| **2026-09-01** | **Beam-on-supports mark** — a `>` prompt and three stacked bars above a beam carried by a pinned support and a roller. Retains the three stacked bars of the previous mark. | Current. Source files: [`brand/`](brand/). Palette and usage rules: [`brand/README.md`](brand/README.md). |
+
+A deployment that displays the mark in force **at the time it shipped**, or that
+uses the "Powered by Beamstack" text alternative in BCL-1.1 §1.17(a), is
+compliant. The text alternative is unaffected by any change to the logo, and is
+the safer choice for anyone who does not want to track this table.
+
+> **Open, and deliberately not decided here.** The OMPIC registration recorded in
+> §1 is for the **word mark "Beamstack"**; no registration is claimed for the
+> logo. Whether the 2026-09-01 mark should itself be filed — and whether it reads
+> in law as a refinement of the earlier one or as a distinct mark — is a question
+> for the owner and counsel. This table records what was published and when; it
+> makes no assertion about registrability.
 
 ## 2. What no licence grants
 
